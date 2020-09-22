@@ -21,8 +21,6 @@ recipe:
     5. Season with salt and pepper, optionally splash some EVOO / oil from the cheese
 ---
 
-![Hero](/images/posts/2020-09-21-smashed-avo/hero.jpg)
-
 This delicious breakfast is quick and easy
 
 ![Hero](/images/posts/2020-09-21-smashed-avo/bread.jpg)

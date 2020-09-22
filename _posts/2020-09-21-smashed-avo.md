@@ -3,10 +3,10 @@ date: 2020-09-21
 title: Smashed Avo
 categories:
   - Vegetarian
-featured_image: /images/posts/2020-09-21-smashed-avo/hero.jpg
+featured_image: /images/posts/2020-09-21-smashed-avo/yum.jpg
 recipe:
   servings: 1
-  prep: 15 minutes
+  prep: 5 minutes
   cook: 0 minutes
   ingredients_markdown: |-
     * 2 Slices of sourdough
@@ -22,6 +22,10 @@ recipe:
 ---
 
 This delicious breakfast is quick and easy
+
+![Hero](/images/posts/2020-09-21-smashed-avo/hero.jpg)
+
+You can use any bread but I tend to use sourdough
 
 ![Hero](/images/posts/2020-09-21-smashed-avo/bread.jpg)
 

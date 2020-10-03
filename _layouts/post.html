@@ -7,10 +7,6 @@ layout: default
 		<img src="{{ page.featured_image }}" alt="{{ page.title }}">
 	</div>
 
-	<div class="recipe-body">
-		{{ content }}
-	</div>
-
 	<ul id="recipe" class="recipe-overview">
 		<li title="Servings">{% include recipe-icon.html icon="quantity" %}<span>{{ page.recipe.servings }}</span></li>
 		<li title="Prep Time">{% include recipe-icon.html icon="time" %}<span>{{ page.recipe.prep }}</span></li>
@@ -24,9 +20,13 @@ layout: default
 		</div>
 
 		<div class="directions">
-			<h2>Directions</h2>
+			<h2>Method</h2>
 			{{ page.recipe.directions_markdown | markdownify }}
 		</div>
+	</div>
+
+	<div class="recipe-body">
+		{{ content }}
 	</div>
 
 	<div class="sharing">
@@ -63,7 +63,6 @@ layout: default
 </article>
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-<script type="text/javascript" src="{{ site.baseurl }}/js/jquery.imgPin.min.js"></script>
 <script>
 	$(function() {
 		$('.post img').imgPin();

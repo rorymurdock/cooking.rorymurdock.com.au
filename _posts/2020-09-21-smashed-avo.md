@@ -1,13 +1,14 @@
 ---
-date: 2020-09-21
+date: 2020-10-03
 title: Smashed Avo
 categories:
+  - Breakfast
   - Vegetarian
 featured_image: /images/posts/2020-09-21-smashed-avo/yum.jpg
 recipe:
   servings: 1
   prep: 5 minutes
-  cook: 0 minutes
+  cook: 5 minutes
   ingredients_markdown: |-
     * 2 Slices of sourdough
     * 1 Avocado
@@ -27,24 +28,24 @@ This delicious breakfast is quick and easy
 
 You can use any bread but I tend to use sourdough
 
-![Hero](/images/posts/2020-09-21-smashed-avo/bread.jpg)
+![Bread](/images/posts/2020-09-21-smashed-avo/bread.jpg)
 
 Pour some EVOO on to both sides of the sourdough, throw it into a pan for a few minutes each side until golden
 
-![Hero](/images/posts/2020-09-21-smashed-avo/toast.jpg)
+![Toast](/images/posts/2020-09-21-smashed-avo/toast.jpg)
 
-![Hero](/images/posts/2020-09-21-smashed-avo/toasted.jpg)
+![Toasted](/images/posts/2020-09-21-smashed-avo/toasted.jpg)
 
 Pit and smash that avo, put in on the sourdough
 
-![Hero](/images/posts/2020-09-21-smashed-avo/smashed.jpg)
+![Smashed](/images/posts/2020-09-21-smashed-avo/smashed.jpg)
 
 Sprinkle the goats cheese on top
 
-![Hero](/images/posts/2020-09-21-smashed-avo/cheese.jpg)
+![Cheese](/images/posts/2020-09-21-smashed-avo/cheese.jpg)
 
 Thinly slice the tomato and place two half slices on top
 
-![Hero](/images/posts/2020-09-21-smashed-avo/yum.jpg)
+![Yum](/images/posts/2020-09-21-smashed-avo/yum.jpg)
 
 Season with salt and pepper, optionally splash some EVOO / oil from the cheese

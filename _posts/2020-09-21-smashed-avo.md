@@ -1,5 +1,5 @@
 ---
-date: 2020-10-03
+date: 2020-09-21
 title: Smashed Avo
 categories:
   - Breakfast
@@ -22,7 +22,7 @@ recipe:
     5. Season with salt and pepper, optionally splash some EVOO / oil from the cheese
 ---
 
-This delicious breakfast is quick and easy
+This delicious breakfast is quick and easy, served to me by my friend Tom and ruthlessly stolen since
 
 ![Hero](/images/posts/2020-09-21-smashed-avo/hero.jpg)
 

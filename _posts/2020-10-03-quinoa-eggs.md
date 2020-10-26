@@ -23,7 +23,7 @@ recipe:
     5. Place the egg on top and garnish with remain herbs / spice mix (optional add some paprika too)
 ---
 
-This delicious breakfast is quick and easy
+Healthy and fancy breakfast
 
 ![Hero](/images/posts/2020-10-03-quinoa-egss/hero.jpg)
 

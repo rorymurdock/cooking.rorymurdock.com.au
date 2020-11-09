@@ -16,7 +16,7 @@ recipe:
     * San Marcos Chipotle peppers in Adobo
     * 1/4 cup Apple cider vinegar
     * 80g Brown sugar
-    * 250ml Watec
+    * 250ml Wate
   directions_markdown: |-
     1. Heat a pan with oil, using a garlic crusher - crush the garlic into the oil and fry until brown and crispy
     2. Add the onions and fry for a few minutes
